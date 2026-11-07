@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ChronoFlow</string>
+    <string name="title_activity_main">ChronoFlow</string>
+    <string name="package_name">com.chronoflow.app</string>
+    <string name="custom_url_scheme">com.chronoflow.app</string>
+</resources>
